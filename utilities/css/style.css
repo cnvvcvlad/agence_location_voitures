@@ -1,0 +1,13 @@
+header{
+    background-image: url("../img/background1.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position-y: -50px;
+    background-size: cover;
+}
+
+footer{
+    padding: 5%;
+    margin-top: 5%;
+}
+
